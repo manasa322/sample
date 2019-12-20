@@ -1,7 +1,5 @@
 #include<stdio.h>
-main()
+void main()
 {
-int a,b;
-c=a+b;
-printf("additiom of two numbers");
+printf("welcome to cse");
 }
